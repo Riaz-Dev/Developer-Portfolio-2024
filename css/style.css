@@ -162,15 +162,41 @@ ul {
 .edu-dtls {
     display: flex;
     flex-direction: column;
-    row-gap: 25px;
+    row-gap: 10px;
     padding: 20px 0;
+}
+.edu-dtls h4 {
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+}
+.edu-dtls h5 {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+}
+.edu-dtls p {
+    color: #757575;
 }
 .exp-dtls {
     display: flex;
     flex-direction: column;
-    row-gap: 25px;
+    row-gap: 10px;
     padding: 20px 0;
 }
+.exp-dtls h4 {
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+}
+.exp-dtls h5 {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+}
+.exp-dtls p {
+    color: #757575;
+}
 .edu-exp h3 {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
